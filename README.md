@@ -50,7 +50,7 @@
 
 
 ## 🔝 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Hidden-Layer?ext=activity)
 
 <!-- 
 ### 🔝 Top Contributed Repo
