@@ -18,7 +18,6 @@
 
 
 ### 🌱 I’m learning
-- **LLMs** as an Operating Systems
 - **Reinforcement Learning** and its applications in real-world problems.
 
 
@@ -42,6 +41,7 @@
 ## 🏅 Certifications
 [![AWS Certification Badge](https://images.credly.com/size/150x150/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/9de1c14b-e8cb-4fa7-9130-098ff0a944c5)
 
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaraInCode&theme=radical&no-frame=true&no-bg=true&margin-w=4)
   
@@ -55,7 +55,7 @@
 ## 🧩 Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Hidden-Layer?ext=activity)
 
-<!-- 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saraswathy-InCode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
