@@ -3,7 +3,10 @@
 ### 👋 Hi there, I'm Saraswathy
 ## I'm a Full stack Data Scientist !
 - I turn data into decisions using AI, ML, and advanced analytics.
-
+<!-- 
+## Profile views
+![](https://komarev.com/ghpvc/?username=SaraInCode&color=blue)
+-->
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saraswathy-k) 
