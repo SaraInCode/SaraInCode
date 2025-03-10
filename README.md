@@ -11,7 +11,7 @@
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saraswathy-k) 
 
-
+<!--
 ### 👯 I’m Looking to Collaborate On
 - **OCR & NLP Projects:** If you're working on document processing, especially in the context of OCR and NLP, let's connect!
 - **Generative AI Applications:** I’m interested in collaborating on projects that explore creative uses of Generative AI in business automation, content generation, or decision-making.
@@ -44,7 +44,7 @@
 ## 🏅 Certifications
 [![AWS Certification Badge](https://images.credly.com/size/150x150/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/9de1c14b-e8cb-4fa7-9130-098ff0a944c5)
 
-<!-- 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaraInCode&theme=radical&no-frame=true&no-bg=true&margin-w=4)
   
