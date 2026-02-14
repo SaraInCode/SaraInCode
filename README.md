@@ -1,8 +1,8 @@
 <!-- ### <img src="https://tenor.com/view/jake-is-fat-a-fatty-gif-7079131600029584089.gif" width="40" height="40" /> Hi there, I'm Saraswathy
 -->
 ### 👋 Hi there,
-## Data. Dialogue. Deployment.
-- Between humans and machines.
+## Between humans and machines
+- I ship conversational AI that doesn't hallucinate (much).
 <!-- 
 ## Profile views
 ![](https://komarev.com/ghpvc/?username=SaraInCode&color=blue)
