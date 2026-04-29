@@ -2,7 +2,7 @@
 -->
 ### 👋 Hi there,
 ## Between humans and machines
-- I ship conversational AI that doesn't hallucinate (much).
+I ship conversational AI that doesn't hallucinate (much).
 <!-- 
 ## Profile views
 ![](https://komarev.com/ghpvc/?username=SaraInCode&color=blue)
